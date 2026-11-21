@@ -1,0 +1,101 @@
+Order_ID,Product_Category,Product_Price,Quantity,Discount_Percentage,Delivery_Days,Payment_Method,Customer_Order_Count,Previous_Return_Count,Product_Rating,Shipping_Type
+IND-ORD-200001,Footwear,789.0,3,24.8,3,Credit Card,6,1,4.2,Express
+IND-ORD-200002,Fashion,1329.0,1,7.1,3,UPI,9,1,4.1,Standard
+IND-ORD-200003,Beauty & Personal Care,939.0,4,8.2,3,COD,1,0,4.4,Standard
+IND-ORD-200004,Home & Kitchen,1630.0,1,34.5,12,COD,5,0,4.4,Standard
+IND-ORD-200005,Home & Kitchen,1220.0,1,34.7,4,COD,5,0,4.2,Standard
+IND-ORD-200006,Beauty & Personal Care,590.0,2,5.8,0,UPI,9,0,4.0,Same-Day
+IND-ORD-200007,Fashion,1349.0,1,20.1,5,COD,5,1,4.2,Standard
+IND-ORD-200008,Fashion,899.0,1,29.8,0,Net Banking,2,0,4.2,Same-Day
+IND-ORD-200009,Fashion,1620.0,1,27.7,6,Credit Card,5,1,3.5,Standard
+IND-ORD-200010,Home & Kitchen,2360.0,1,41.6,9,UPI,6,1,2.7,Standard
+IND-ORD-200011,Home & Kitchen,1150.0,1,34.1,6,UPI,7,0,3.3,Standard
+IND-ORD-200012,Footwear,1429.0,1,43.2,4,Credit Card,2,0,3.8,Standard
+IND-ORD-200013,Beauty & Personal Care,339.0,4,8.2,6,Wallet,2,0,4.7,Standard
+IND-ORD-200014,Beauty & Personal Care,800.0,1,22.1,1,Wallet,11,4,4.9,Express
+IND-ORD-200015,Electronics,4129.0,1,12.6,6,Net Banking,2,0,3.5,Standard
+IND-ORD-200016,Fashion,1229.0,3,42.9,10,UPI,4,1,4.5,Standard
+IND-ORD-200017,Home & Kitchen,1169.0,1,17.5,6,UPI,6,0,4.2,Standard
+IND-ORD-200018,Fashion,690.0,1,1.6,5,UPI,6,3,2.7,Standard
+IND-ORD-200019,Footwear,1650.0,1,26.5,4,Debit Card,2,1,4.6,Standard
+IND-ORD-200020,Books & Stationery,469.0,1,28.0,7,COD,2,0,3.7,Standard
+IND-ORD-200021,Beauty & Personal Care,860.0,1,14.6,8,COD,1,0,3.6,Standard
+IND-ORD-200022,Electronics,3969.0,1,14.3,8,COD,2,2,3.5,Standard
+IND-ORD-200023,Fashion,1320.0,4,18.2,9,COD,2,0,4.5,Standard
+IND-ORD-200024,Footwear,1339.0,1,25.9,3,COD,0,0,,Express
+IND-ORD-200025, Fashion ,460.0,1,16.4,6,COD,4,2,3.5,Standard
+IND-ORD-200026,Fashion,869.0,1,27.9,7,COD,0,0,4.0,Standard
+IND-ORD-200027,Electronics,860.0,1,18.4,8,UPI,5,0,4.2,Standard
+IND-ORD-200028,Beauty & Personal Care,630.0,1,15.3,5,COD,5,1,4.8,Express
+IND-ORD-200029,Beauty & Personal Care,329.0,1,7.4,2,COD,2,0,4.8,Express
+IND-ORD-200030,Fashion,1129.0,1,6.0,5,COD,19,1,3.3,Standard
+IND-ORD-200031,Home & Kitchen,480.0,1,10.2,10,COD,1,0,4.5,Standard
+IND-ORD-200032,Fashion,379.0,1,33.0,2,Wallet,13,0,4.7,Express
+IND-ORD-200033,Fashion,449.0,1,9.0,3,UPI,2,1,1.5,Express
+IND-ORD-200034,Beauty & Personal Care,279.0,2,26.4,5,COD,9,1,4.7,Standard
+IND-ORD-200035,Fashion,1559.0,1,18.7,3,Credit Card,7,0,3.0,Express
+IND-ORD-200036,Books & Stationery,340.0,1,8.7,6,UPI,9,0,4.4,Standard
+IND-ORD-200037,Footwear,2189.0,1,25.0,8,COD,3,0,4.0,Standard
+IND-ORD-200038,Books & Stationery,369.0,1,14.3,5,Credit Card,7,0,2.4,Standard
+IND-ORD-200039,Beauty & Personal Care,659.0,2,26.0,9,UPI,1,0,4.6,Standard
+IND-ORD-200040,Fashion,1339.0,1,21.9,6,Credit Card,0,0,4.1,Standard
+IND-ORD-200041,Footwear,1679.0,1,40.1,5,COD,3,0,4.3,Express
+IND-ORD-200042,Fashion,450.0,4,10.4,0,Wallet,2,0,3.7,Same-Day
+IND-ORD-200043,Fashion,549.0,2,36.3,5,Debit Card,9,0,4.1,Express
+IND-ORD-200044,Beauty & Personal Care,470.0,1,6.1,7,Credit Card,4,3,2.9,
+IND-ORD-200045,Electronics,12149.0,1,7.2,7,UPI,1,0,4.8,Standard
+IND-ORD-200046,Beauty & Personal Care,449.0,3,40.8,10,COD,0,0,3.4,Standard
+IND-ORD-200047,Electronics,5109.0,2,29.4,10,COD,2,1,3.2,Standard
+IND-ORD-200048,Beauty & Personal Care,540.0,1,19.4,8,Debit Card,0,0,4.0,Standard
+IND-ORD-200049,Fashion,570.0,1,12.6,6,UPI,3,0,3.8,Standard
+IND-ORD-200050,Fashion,519.0,4,28.6,4,Debit Card,5,1,4.9,Express
+IND-ORD-200051,Footwear,1750.0,1,26.7,6,Wallet,2,0,3.5,Standard
+IND-ORD-200052,Home & Kitchen,2310.0,2,1.6,3,UPI,11,3,4.8,Express
+IND-ORD-200053,Home & Kitchen,2220.0,3,19.7,13,COD,4,0,4.2,Standard
+IND-ORD-200054,Beauty & Personal Care,399.0,2,1.1,10,UPI,2,0,4.0,Standard
+IND-ORD-200055,Fashion,859.0,1,13.1,6,Credit Card,3,0,4.7,Standard
+IND-ORD-200056,Electronics,12880.0,1,15.3,4,UPI,3,0,3.9,Standard
+IND-ORD-200057,Fashion,340.0,2,24.4,1,COD,8,2,3.6,Express
+IND-ORD-200058,Electronics,3969.0,1,5.8,6,COD,2,0,4.3,Standard
+IND-ORD-200059,Books & Stationery,589.0,2,10.4,0,COD,13,3,4.6,Same-Day
+IND-ORD-200060,Beauty & Personal Care,399.0,2,29.7,7,Credit Card,5,0,4.4,Standard
+IND-ORD-200061,Electronics,2059.0,2,10.7,5,Credit Card,4,1,4.3,Standard
+IND-ORD-200062,Fashion,769.0,1,25.2,7,COD,1,0,4.2,Standard
+IND-ORD-200063,Books & Stationery,369.0,4,7.5,7,UPI,0,0,4.0,Standard
+IND-ORD-200064,Books & Stationery,409.0,1,7.5,9,UPI,8,3,4.3,Standard
+IND-ORD-200065,Home & Kitchen,2119.0,1,14.0,6,UPI,1,0,1.1,Standard
+IND-ORD-200066,Electronics,3510.0,1,32.7,0,UPI,1,0,,Same-Day
+IND-ORD-200067,Electronics,2590.0,5,13.3,0,COD,1,0,4.3,Same-Day
+IND-ORD-200068,Books & Stationery,219.0,1,30.5,5,Net Banking,4,1,4.3,Standard
+IND-ORD-200069,Books & Stationery,380.0,1,40.7,11,Debit Card,0,0,4.0,Standard
+IND-ORD-200070,Fashion,1340.0,1,33.5,1,Wallet,5,0,4.1,Express
+IND-ORD-200071,Beauty & Personal Care,749.0,1,25.3,7,Credit Card,3,0,3.2,Standard
+IND-ORD-200072,Footwear,1809.0,2,36.3,11,UPI,11,3,4.2,Standard
+IND-ORD-200073,Electronics,3850.0,1,13.3,8,Credit Card,6,0,4.0,Standard
+IND-ORD-200074,Beauty & Personal Care,200.0,1,37.8,7,COD,4,3,4.7,Standard
+IND-ORD-200075,Footwear,1050.0,1,12.8,13,Credit Card,2,0,3.5,Standard
+IND-ORD-200076,Beauty & Personal Care,659.0,1,15.1,4,,3,0,4.3,Express
+IND-ORD-200077,Fashion,799.0,1,32.8,6,Credit Card,6,0,3.2,Standard
+IND-ORD-200078,Beauty & Personal Care,220.0,1,32.6,8,UPI,0,0,4.3,Standard
+IND-ORD-200079,Fashion,989.0,1,29.6,8,COD,3,0,2.9,Standard
+IND-ORD-200080,Books & Stationery,370.0,1,13.3,6,UPI,9,4,4.7,Standard
+IND-ORD-200081,Beauty & Personal Care,559.0,3,22.5,7,UPI,2,0,4.0,Standard
+IND-ORD-200082,Fashion,1739.0,2,9.4,7,UPI,7,4,3.7,Standard
+IND-ORD-200083,Fashion,390.0,1,3.0,5,Credit Card,2,0,4.3,Express
+IND-ORD-200084,Electronics,1849.0,1,41.0,7,Credit Card,8,2,4.3,Standard
+IND-ORD-200085,Fashion,809.0,1,3.6,6,UPI,5,0,1.4,Standard
+IND-ORD-200086,Books & Stationery,210.0,2,32.9,1,UPI,1,1,4.5,Express
+IND-ORD-200087,Beauty & Personal Care,570.0,1,15.0,5,UPI,5,0,4.6,Express
+IND-ORD-200088,Electronics,3009.0,4,34.4,10,Wallet,5,2,3.8,Standard
+IND-ORD-200089,Home & Kitchen,2010.0,1,7.6,1,COD,2,0,4.1,Express
+IND-ORD-200090,Home & Kitchen,509.0,2,43.1,9,COD,9,1,4.0,Standard
+IND-ORD-200091,Beauty & Personal Care,689.0,1,27.8,5,UPI,10,0,4.0,Standard
+IND-ORD-200092,Beauty & Personal Care,599.0,2,1.3,3,UPI,3,1,3.2,Express
+IND-ORD-200093,Beauty & Personal Care,579.0,1,32.4,8,Wallet,6,2,3.8,Standard
+IND-ORD-200094,Fashion,719.0,1,39.5,7,UPI,0,0,4.8,Standard
+IND-ORD-200095,Electronics,7290.0,1,16.6,6,Credit Card,5,0,3.4,Standard
+IND-ORD-200096,Beauty & Personal Care,169.0,1,33.6,7,UPI,3,0,3.6,Standard
+IND-ORD-200097,Fashion,1239.0,3,21.8,5,UPI,7,2,4.4,Standard
+IND-ORD-200098,Footwear,1739.0,3,27.0,6,COD,4,0,2.5,Standard
+IND-ORD-200099,Fashion,619.0,2,8.4,7,UPI,4,0,4.5,Standard
+IND-ORD-200100,Beauty & Personal Care,1729.0,1,2.9,8,COD,1,1,4.0,Standard
